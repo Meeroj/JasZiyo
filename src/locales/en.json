@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "tech": "TECH PARK",
+    "portfolio": "PORTFOLIO",
+    "workflow": "WORKFLOW",
+    "faq": "FAQ",
+    "contacts": "CONTACT",
+    "orderBtn": "REQUEST A QUOTE",
+    "menuToggle": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "badge": "EVENT PRODUCTION & RENTAL",
+    "ctaPrimary": "CALCULATE RIDER",
+    "ctaSecondary": "EXPLORE TECH PARK"
+  },
+  "tech": {
+    "sectionNum": "EQUIPMENT",
+    "title": "JASZIYO TECH PARK",
+    "subtitle": "World-class certified sound line arrays, intelligent lighting, and ultra-HD LED walls."
+  },
+  "portfolio": {
+    "sectionNum": "SHOWS & GALLERY",
+    "title": "FEATURED PRODUCTIONS",
+    "subtitle": "Arena concerts, music festivals, and high-profile corporate galas in pictures."
+  },
+  "workflow": {
+    "sectionNum": "PROCESS",
+    "title": "FROM REQUEST TO SHOWTIME",
+    "subtitle": "Step-by-step technical precision and engineering discipline."
+  },
+  "faq": {
+    "sectionNum": "FREQUENT QUESTIONS",
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "subtitle": "Clear answers regarding technical rental and live sound production."
+  },
+  "footer": {
+    "ctaTitle": "START YOUR EVENT PRODUCTION",
+    "ctaDesc": "We will deliver an accurate technical estimate and rider setup within 15 minutes.",
+    "addressTitle": "LOCATION",
+    "phoneTitle": "CALL US",
+    "socialsTitle": "CONNECT",
+    "serviceTitle": "SERVICE",
+    "manifesto": "SOUND|THAT MOVES.|SHOWS THAT STAY.",
+    "rights": "All rights reserved."
+  }
+}

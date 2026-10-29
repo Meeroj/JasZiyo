@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "tech": "TEXNIK PARK",
+    "portfolio": "PORTFOLIO",
+    "workflow": "BOSQICHLAR",
+    "faq": "FAQ",
+    "contacts": "KONTAKT",
+    "orderBtn": "BUYURTMA BERISH",
+    "menuToggle": "Menyuni ochish",
+    "closeMenu": "Menyuni yopish"
+  },
+  "hero": {
+    "badge": "EVENT PRODUCTION & RENTAL",
+    "ctaPrimary": "RIDER HISOBLASH",
+    "ctaSecondary": "TEXNIK PARKNI KO'RISH"
+  },
+  "tech": {
+    "sectionNum": "TEXNIKA",
+    "title": "JASZIYO TEXNIK PARKI",
+    "subtitle": "Jahonga mashhur brendlarning sertifikatlangan ovoz, yorug'lik va LED ekran uskunalari."
+  },
+  "portfolio": {
+    "sectionNum": "SHOU & GALEREYA",
+    "title": "AMALGA OSHIRILGAN LOYIHALAR",
+    "subtitle": "Katta konsertlar, festivallar va korporativ shoular kadrlarda."
+  },
+  "workflow": {
+    "sectionNum": "TASHKILOSH",
+    "title": "ARIZADAN PULTGACHA",
+    "subtitle": "Tadbir muhandisligining har bir bosqichi qat'iy nazorat ostida."
+  },
+  "faq": {
+    "sectionNum": "SAVOLLAR",
+    "title": "KO'P BERILADIGAN SAVOLLAR",
+    "subtitle": "Texnik ijara va xizmatlarimiz haqida tezkor javoblar."
+  },
+  "footer": {
+    "ctaTitle": "BUYURTMA VA KONSULTATSIYA",
+    "ctaDesc": "Tadbiringiz uchun aniq rider va smetani 15 daqiqada hisoblab beramiz.",
+    "addressTitle": "MANZILIMIZ",
+    "phoneTitle": "TELEFON",
+    "socialsTitle": "IJTIMOIY TARMQLAR",
+    "serviceTitle": "XIZMAT",
+    "manifesto": "OVOZ|HIS QILINADI.|SHOU YODDA QOLADI.",
+    "rights": "Barcha huquqlar hisoblangan va himoyalangan."
+  }
+}
